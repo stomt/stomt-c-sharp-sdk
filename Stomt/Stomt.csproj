@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Wise Wolf</Company>
+    <Authors>Yiannis Panakos</Authors>
+    <Product>Library for use Stomt's api.</Product>
+    <Description>This is a library to use the Stomt's api in applications and games.</Description>
+    <Copyright>Yiannis Panakos 2018+</Copyright>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+</Project>

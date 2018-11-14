@@ -1,0 +1,9 @@
+D:\source\repos\Stomt\Stomt\bin\Debug\netstandard2.0\Stomt.deps.json
+D:\source\repos\Stomt\Stomt\bin\Debug\netstandard2.0\Stomt.dll
+D:\source\repos\Stomt\Stomt\bin\Debug\netstandard2.0\Stomt.pdb
+D:\source\repos\Stomt\Stomt\obj\Debug\netstandard2.0\Stomt.csproj.CoreCompileInputs.cache
+D:\source\repos\Stomt\Stomt\obj\Debug\netstandard2.0\Stomt.AssemblyInfoInputs.cache
+D:\source\repos\Stomt\Stomt\obj\Debug\netstandard2.0\Stomt.AssemblyInfo.cs
+D:\source\repos\Stomt\Stomt\obj\Debug\netstandard2.0\Stomt.dll
+D:\source\repos\Stomt\Stomt\obj\Debug\netstandard2.0\Stomt.pdb
+D:\source\repos\Stomt\Stomt\obj\Debug\netstandard2.0\Stomt.csprojAssemblyReference.cache

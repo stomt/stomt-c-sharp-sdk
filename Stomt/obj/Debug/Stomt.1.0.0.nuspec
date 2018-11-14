@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Stomt</id>
+    <version>1.0.0</version>
+    <authors>Yiannis Panakos</authors>
+    <owners>Yiannis Panakos</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a library to use the Stomt's api in applications and games.</description>
+    <copyright>Yiannis Panakos 2018+</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\source\repos\Stomt\Stomt\bin\Debug\netstandard2.0\Stomt.dll" target="lib\netstandard2.0\Stomt.dll" />
+  </files>
+</package>
